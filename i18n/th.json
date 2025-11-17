@@ -1,0 +1,37 @@
+{
+  "projectName": "MCloud อัตโนมัติโปรแกรมย่อย",
+  "projectDescription": "วิธีการทดสอบอัตโนมัติสำหรับโปรแกรมย่อย WeChat บนแพลตฟอร์ม Alibaba Cloud MCloud",
+  "features": {
+    "title": "คุณสมบัติ",
+    "connectBrowser": "เชื่อมต่อกับอินสแตนซ์เบราว์เซอร์ Edge ที่มีอยู่",
+    "automateUpload": "อัตโนมัติการอัปโหลดโปรแกรมย่อย",
+    "configureTest": "กำหนดค่าพารามิเตอร์การทดสอบ",
+    "monitorProgress": "ตรวจสอบความคืบหน้าของการทดสอบ",
+    "generateReport": "สร้างรายงานการทดสอบ"
+  },
+  "gettingStarted": {
+    "title": "เริ่มต้นใช้งาน",
+    "step1": "เริ่มต้นเบราว์เซอร์ Edge ด้วยการดีบักจากระยะไกล",
+    "step2": "เข้าสู่ระบบ Alibaba Cloud MCloud ด้วยตนเอง",
+    "step3": "ตั้งค่าเส้นทางแพ็คเกจของโปรแกรมย่อย",
+    "step4": "เรียกใช้สคริปต์อัตโนมัติ"
+  },
+  "installation": {
+    "title": "การติดตั้ง",
+    "installPlaywright": "ติดตั้ง Playwright",
+    "installBrowser": "ติดตั้งเบราว์เซอร์ที่รองรับ",
+    "setupEnv": "ตั้งค่าตัวแปรสภาพแวดล้อม"
+  },
+  "usage": {
+    "title": "การใช้งาน",
+    "runSimple": "เรียกใช้อัตโนมัติง่ายๆ",
+    "runAdvanced": "เรียกใช้อัตโนมัติขั้นสูง",
+    "runStepByStep": "เรียกใช้อัตโนมัติตามขั้นตอน"
+  },
+  "troubleshooting": {
+    "title": "การแก้ปัญหา",
+    "connectionIssues": "ปัญหาการเชื่อมต่อ",
+    "elementNotFound": "ไม่พบองค์ประกอบ",
+    "authentication": "ปัญหาการยืนยันตัวตน"
+  }
+}

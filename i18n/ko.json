@@ -1,0 +1,37 @@
+{
+  "projectName": "MCloud 미니프로그램 자동화",
+  "projectDescription": "알리바바 클라우드 MCloud 플랫폼을 위한 위챗 미니프로그램 자동 테스트 솔루션",
+  "features": {
+    "title": "기능",
+    "connectBrowser": "기존 Edge 브라우저 인스턴스에 연결",
+    "automateUpload": "미니프로그램 자동 업로드",
+    "configureTest": "테스트 파라미터 구성",
+    "monitorProgress": "테스트 진행 상황 모니터링",
+    "generateReport": "테스트 보고서 생성"
+  },
+  "gettingStarted": {
+    "title": "시작하기",
+    "step1": "원격 디버깅으로 Edge 브라우저 시작",
+    "step2": "수동으로 알리바바 클라우드 MCloud에 로그인",
+    "step3": "미니프로그램 패키지 경로 설정",
+    "step4": "자동화 스크립트 실행"
+  },
+  "installation": {
+    "title": "설치",
+    "installPlaywright": "Playwright 설치",
+    "installBrowser": "지원 브라우저 설치",
+    "setupEnv": "환경 변수 설정"
+  },
+  "usage": {
+    "title": "사용법",
+    "runSimple": "간단한 자동화 실행",
+    "runAdvanced": "고급 자동화 실행",
+    "runStepByStep": "단계별 자동화 실행"
+  },
+  "troubleshooting": {
+    "title": "문제 해결",
+    "connectionIssues": "연결 문제",
+    "elementNotFound": "요소를 찾을 수 없음",
+    "authentication": "인증 문제"
+  }
+}

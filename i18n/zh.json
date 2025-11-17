@@ -1,0 +1,37 @@
+{
+  "projectName": "MCloud 小程序自动化",
+  "projectDescription": "阿里云MCloud平台微信小程序自动化测试解决方案",
+  "features": {
+    "title": "功能特性",
+    "connectBrowser": "连接到已有的Edge浏览器实例",
+    "automateUpload": "自动化小程序上传",
+    "configureTest": "配置测试参数",
+    "monitorProgress": "监控测试进度",
+    "generateReport": "生成测试报告"
+  },
+  "gettingStarted": {
+    "title": "快速开始",
+    "step1": "启动启用远程调试的Edge浏览器",
+    "step2": "手动登录阿里云MCloud",
+    "step3": "设置小程序包路径",
+    "step4": "运行自动化脚本"
+  },
+  "installation": {
+    "title": "安装",
+    "installPlaywright": "安装Playwright",
+    "installBrowser": "安装支持的浏览器",
+    "setupEnv": "设置环境变量"
+  },
+  "usage": {
+    "title": "使用方法",
+    "runSimple": "运行简化版自动化",
+    "runAdvanced": "运行高级版自动化",
+    "runStepByStep": "运行分步版自动化"
+  },
+  "troubleshooting": {
+    "title": "故障排除",
+    "connectionIssues": "连接问题",
+    "elementNotFound": "找不到元素",
+    "authentication": "身份验证问题"
+  }
+}

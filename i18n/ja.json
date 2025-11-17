@@ -1,0 +1,37 @@
+{
+  "projectName": "MCloud ミニプログラム自動化",
+  "projectDescription": "アリババクラウドMCloudプラットフォームのためのWeChatミニプログラム自動テストソリューション",
+  "features": {
+    "title": "機能",
+    "connectBrowser": "既存のEdgeブラウザインスタンスに接続",
+    "automateUpload": "ミニプログラムの自動アップロード",
+    "configureTest": "テストパラメータの設定",
+    "monitorProgress": "テスト進捗の監視",
+    "generateReport": "テストレポートの生成"
+  },
+  "gettingStarted": {
+    "title": "開始方法",
+    "step1": "リモートデバッグ付きでEdgeブラウザを起動",
+    "step2": "手動でアリババクラウドMCloudにログイン",
+    "step3": "ミニプログラムパッケージパスを設定",
+    "step4": "自動化スクリプトを実行"
+  },
+  "installation": {
+    "title": "インストール",
+    "installPlaywright": "Playwrightをインストール",
+    "installBrowser": "対応ブラウザをインストール",
+    "setupEnv": "環境変数を設定"
+  },
+  "usage": {
+    "title": "使用法",
+    "runSimple": "簡易自動化を実行",
+    "runAdvanced": "高度な自動化を実行",
+    "runStepByStep": "ステップバイステップ自動化を実行"
+  },
+  "troubleshooting": {
+    "title": "トラブルシューティング",
+    "connectionIssues": "接続の問題",
+    "elementNotFound": "要素が見つからない",
+    "authentication": "認証の問題"
+  }
+}

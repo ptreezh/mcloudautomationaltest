@@ -1,0 +1,37 @@
+{
+  "projectName": "MCloud Automatisation Mini Programme",
+  "projectDescription": "Solution de test automatisé pour les Mini Programmes WeChat sur la plateforme Alibaba Cloud MCloud",
+  "features": {
+    "title": "Fonctionnalités",
+    "connectBrowser": "Se connecter à une instance existante d'Edge",
+    "automateUpload": "Automatiser le téléchargement du mini programme",
+    "configureTest": "Configurer les paramètres de test",
+    "monitorProgress": "Surveiller la progression du test",
+    "generateReport": "Générer des rapports de test"
+  },
+  "gettingStarted": {
+    "title": "Démarrage",
+    "step1": "Démarrer le navigateur Edge avec le débogage à distance",
+    "step2": "Se connecter manuellement à Alibaba Cloud MCloud",
+    "step3": "Définir le chemin du package du mini programme",
+    "step4": "Exécuter le script d'automatisation"
+  },
+  "installation": {
+    "title": "Installation",
+    "installPlaywright": "Installer Playwright",
+    "installBrowser": "Installer les navigateurs pris en charge",
+    "setupEnv": "Configurer les variables d'environnement"
+  },
+  "usage": {
+    "title": "Utilisation",
+    "runSimple": "Exécuter l'automatisation simple",
+    "runAdvanced": "Exécuter l'automatisation avancée",
+    "runStepByStep": "Exécuter l'automatisation pas à pas"
+  },
+  "troubleshooting": {
+    "title": "Dépannage",
+    "connectionIssues": "Problèmes de connexion",
+    "elementNotFound": "Élément introuvable",
+    "authentication": "Problèmes d'authentification"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "projectName": "MCloud Мини-программа автоматизации",
+  "projectDescription": "WeChat мини-программалари учун Alibaba Cloud MCloud платформасида тестлашни автоматлаштириш",
+  "features": {
+    "title": "Функциялар",
+    "connectBrowser": "Мавжуд Edge браузерига уланиш",
+    "automateUpload": "Мини-программа юклашни автоматлаштириш",
+    "configureTest": "Тест параметрларини ўрнатиш",
+    "monitorProgress": "Тест жараёни таркибидан кузатиш",
+    "generateReport": "Тест хисоботини яратиш"
+  },
+  "gettingStarted": {
+    "title": "Бошлаш",
+    "step1": "Масофадан тузатиш билан Edge браузерини ишга туширинг",
+    "step2": "Алибаба Клауд MCloud'га тизимга кириш",
+    "step3": "Мини-программа пакетининг йўлини ўрнатиш",
+    "step4": "Автоматлаштирилган скриптни ишга туширинг"
+  },
+  "installation": {
+    "title": "Ўрнатиш",
+    "installPlaywright": "Playwright ўрнатиш",
+    "installBrowser": "Қўллаб қувватланувчи браузерларни ўрнатиш",
+    "setupEnv": "Ўзгарувчиларни созлаш"
+  },
+  "usage": {
+    "title": "Фойдаланиш",
+    "runSimple": "Содда автоматни ишга туширш",
+    "runAdvanced": "Мураккаб автоматни ишга туширш",
+    "runStepByStep": "Қадам-қадам автоматни ишга туширш"
+  },
+  "troubleshooting": {
+    "title": "Муаммоларни тузатиш",
+    "connectionIssues": "Уланиш муаммолари",
+    "elementNotFound": "Элемент топилмади",
+    "authentication": "Тасдиқлаш муаммолари"
+  }
+}
