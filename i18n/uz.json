@@ -1,6 +1,13 @@
 {
   "projectName": "MCloud Мини-программа автоматлаштирилган",
   "projectDescription": "Alibaba Cloud MCloud платформаси учун WeChat мини-программалари автомат тестлаш ҳал қилиш",
+  "copyright": "Copyright (c) 2025 ptreezh, AI Шахсият лабораторияси",
+  "contact": {
+    "title": "Алоқа",
+    "website": "https://agentpsy.com",
+    "email": "contact@agentpsy.com",
+    "lab": "AI Шахсият лабораторияси"
+  },
   "features": {
     "title": "Функциялар",
     "connectBrowser": "Мавжуд Edge браузер ишга тушурилган",

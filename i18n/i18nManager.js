@@ -69,6 +69,21 @@ class I18nManager {
       console.warn(`Language ${language} is not supported. Using default: ${this.defaultLanguage}`);
     }
   }
+  
+  // 新增：获取版权信息
+  getCopyright(language = this.defaultLanguage) {
+    return this.t('copyright', language);
+  }
+  
+  // 新增：获取联系信息
+  getContactInfo(language = this.defaultLanguage) {
+    return {
+      title: this.t('contact.title', language),
+      website: this.t('contact.website', language),
+      email: this.t('contact.email', language),
+      lab: this.t('contact.lab', language)
+    };
+  }
 }
 
 // 创建全局实例

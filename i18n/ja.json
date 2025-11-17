@@ -1,6 +1,13 @@
 {
   "projectName": "MCloud ミニプログラム自動化",
   "projectDescription": "アリババクラウドMCloudプラットフォームのためのWeChatミニプログラム自動テストソリューション",
+  "copyright": "Copyright (c) 2025 ptreezh, AIパーソナリティ研究所",
+  "contact": {
+    "title": "連絡先",
+    "website": "https://agentpsy.com",
+    "email": "contact@agentpsy.com",
+    "lab": "AIパーソナリティ研究所"
+  },
   "features": {
     "title": "機能",
     "connectBrowser": "既存のEdgeブラウザインスタンスに接続",

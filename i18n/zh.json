@@ -1,6 +1,13 @@
 {
   "projectName": "MCloud 小程序自动化",
   "projectDescription": "阿里云MCloud平台微信小程序自动化测试解决方案",
+  "copyright": "版权所有 (c) 2025 ptreezh, AI人格实验室",
+  "contact": {
+    "title": "联系方式",
+    "website": "https://agentpsy.com",
+    "email": "contact@agentpsy.com",
+    "lab": "AI人格实验室"
+  },
   "features": {
     "title": "功能特性",
     "connectBrowser": "连接到已有的Edge浏览器实例",

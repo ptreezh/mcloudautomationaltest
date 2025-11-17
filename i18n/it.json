@@ -1,6 +1,13 @@
 {
   "projectName": "MCloud Automatizzazione Mini Programmi",
   "projectDescription": "Soluzione di testing automatizzato per Mini Programmi WeChat sulla piattaforma Alibaba Cloud MCloud",
+  "copyright": "Copyright (c) 2025 ptreezh, Laboratorio di Personalità AI",
+  "contact": {
+    "title": "Contatti",
+    "website": "https://agentpsy.com",
+    "email": "contact@agentpsy.com",
+    "lab": "Laboratorio di Personalità AI"
+  },
   "features": {
     "title": "Funzionalità",
     "connectBrowser": "Connetti all'istanza esistente di Edge",

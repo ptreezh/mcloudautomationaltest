@@ -1,6 +1,13 @@
 {
   "projectName": "MCloud อัตโนมัติโปรแกรมย่อย",
   "projectDescription": "วิธีการทดสอบอัตโนมัติสำหรับโปรแกรมย่อย WeChat บนแพลตฟอร์ม Alibaba Cloud MCloud",
+  "copyright": "Copyright (c) 2025 ptreezh, ห้องปฏิบัติการบุคลิกภาพ AI",
+  "contact": {
+    "title": "ติดต่อ",
+    "website": "https://agentpsy.com",
+    "email": "contact@agentpsy.com",
+    "lab": "ห้องปฏิบัติการบุคลิกภาพ AI"
+  },
   "features": {
     "title": "คุณสมบัติ",
     "connectBrowser": "เชื่อมต่อกับอินสแตนซ์เบราว์เซอร์ Edge ที่มีอยู่",

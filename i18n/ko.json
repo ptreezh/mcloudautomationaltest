@@ -1,6 +1,13 @@
 {
   "projectName": "MCloud 미니프로그램 자동화",
   "projectDescription": "알리바바 클라우드 MCloud 플랫폼을 위한 위챗 미니프로그램 자동 테스트 솔루션",
+  "copyright": "Copyright (c) 2025 ptreezh, AI 퍼스널리티 연구소",
+  "contact": {
+    "title": "연락처",
+    "website": "https://agentpsy.com",
+    "email": "contact@agentpsy.com",
+    "lab": "AI 퍼스널리티 연구소"
+  },
   "features": {
     "title": "기능",
     "connectBrowser": "기존 Edge 브라우저 인스턴스에 연결",

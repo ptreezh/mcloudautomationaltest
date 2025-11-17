@@ -1,37 +1,44 @@
 {
-  "projectName": "MCloud Мини-программа автоматизации",
-  "projectDescription": "WeChat мини-программалари учун Alibaba Cloud MCloud платформасида тестлашни автоматлаштириш",
+  "projectName": "MCloud Автоматизация мини-программ",
+  "projectDescription": "Автоматизированное тестирование мини-программ WeChat на платформе Alibaba Cloud MCloud",
+  "copyright": "Copyright (c) 2025 ptreezh, Лаборатория ИИ-персональности",
+  "contact": {
+    "title": "Контакты",
+    "website": "https://agentpsy.com",
+    "email": "contact@agentpsy.com",
+    "lab": "Лаборатория ИИ-персональности"
+  },
   "features": {
-    "title": "Функциялар",
-    "connectBrowser": "Мавжуд Edge браузерига уланиш",
-    "automateUpload": "Мини-программа юклашни автоматлаштириш",
-    "configureTest": "Тест параметрларини ўрнатиш",
-    "monitorProgress": "Тест жараёни таркибидан кузатиш",
-    "generateReport": "Тест хисоботини яратиш"
+    "title": "Функции",
+    "connectBrowser": "Подключение к существующему экземпляру Edge",
+    "automateUpload": "Автоматическая загрузка мини-программы",
+    "configureTest": "Настройка параметров теста",
+    "monitorProgress": "Мониторинг прогресса теста",
+    "generateReport": "Создание отчетов о тестировании"
   },
   "gettingStarted": {
-    "title": "Бошлаш",
-    "step1": "Масофадан тузатиш билан Edge браузерини ишга туширинг",
-    "step2": "Алибаба Клауд MCloud'га тизимга кириш",
-    "step3": "Мини-программа пакетининг йўлини ўрнатиш",
-    "step4": "Автоматлаштирилган скриптни ишга туширинг"
+    "title": "Начало работы",
+    "step1": "Запустить браузер Edge с удаленной отладкой",
+    "step2": "Войти в Alibaba Cloud MCloud вручную",
+    "step3": "Установить путь к пакету мини-программы",
+    "step4": "Запустить скрипт автоматизации"
   },
   "installation": {
-    "title": "Ўрнатиш",
-    "installPlaywright": "Playwright ўрнатиш",
-    "installBrowser": "Қўллаб қувватланувчи браузерларни ўрнатиш",
-    "setupEnv": "Ўзгарувчиларни созлаш"
+    "title": "Установка",
+    "installPlaywright": "Установить Playwright",
+    "installBrowser": "Установить поддерживаемые браузеры",
+    "setupEnv": "Настроить переменные окружения"
   },
   "usage": {
-    "title": "Фойдаланиш",
-    "runSimple": "Содда автоматни ишга туширш",
-    "runAdvanced": "Мураккаб автоматни ишга туширш",
-    "runStepByStep": "Қадам-қадам автоматни ишга туширш"
+    "title": "Использование",
+    "runSimple": "Запустить простую автоматизацию",
+    "runAdvanced": "Запустить расширенную автоматизацию",
+    "runStepByStep": "Запустить пошаговую автоматизацию"
   },
   "troubleshooting": {
-    "title": "Муаммоларни тузатиш",
-    "connectionIssues": "Уланиш муаммолари",
-    "elementNotFound": "Элемент топилмади",
-    "authentication": "Тасдиқлаш муаммолари"
+    "title": "Устранение неполадок",
+    "connectionIssues": "Проблемы с подключением",
+    "elementNotFound": "Элемент не найден",
+    "authentication": "Проблемы с аутентификацией"
   }
 }

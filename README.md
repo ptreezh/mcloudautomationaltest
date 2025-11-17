@@ -185,4 +185,10 @@ mcloud-automation/
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
-Project Link: [https://github.com/ptreezh/mcloudautomationaltest](https://github.com/ptreezh/mcloudautomationaltest)
+- **AI Personality Lab**: [https://agentpsy.com](https://agentpsy.com)
+- **Contact**: contact@agentpsy.com
+- **Project Link**: [https://github.com/ptreezh/mcloudautomationaltest](https://github.com/ptreezh/mcloudautomationaltest)
+
+## Copyright
+Copyright (c) 2025 ptreezh  
+AI Personality Lab (https://agentpsy.com)
