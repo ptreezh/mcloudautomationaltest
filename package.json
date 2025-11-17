@@ -1,0 +1,18 @@
+# package.json
+{
+  "name": "mcloud-miniprogram-automation",
+  "version": "1.0.0",
+  "description": "阿里云 MCloud 微信小程序自动化测试",
+  "main": "advanced_mcloud_automation.js",
+  "scripts": {
+    "install": "npm install playwright",
+    "mcloud-automation": "node advanced_mcloud_automation.js",
+    "mcloud-dev": "node --inspect advanced_mcloud_automation.js"
+  },
+  "dependencies": {
+    "playwright": "^1.40.0"
+  },
+  "keywords": ["mcloud", "alibaba", "miniprogram", "automation", "testing"],
+  "author": "Your Name",
+  "license": "MIT"
+}
